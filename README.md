@@ -1,1 +1,1 @@
-## 每天进步一点点
+Learning is all you need
