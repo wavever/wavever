@@ -1,4 +1,7 @@
-# Hi, I'm wavever 👋
+# 👋 Hi , I'm wavever, 🌊 wave forever
+
+## Vibe Status
+[![VibeUsage](https://vibecafe.ai/@wavever/badge)](https://vibecafe.ai/@wavever)
 
 ## Current Projects
 
