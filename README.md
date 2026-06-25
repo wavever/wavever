@@ -7,3 +7,4 @@
 
 - 🖥️ **[buildby](https://github.com/wavever/buildby)** - desktop app tech stack, code signing, and notarization detector for macOS and Windows
 - ⏱️ **[CCLimitPing](https://github.com/wavever/CCLimitPing)** - keep Claude Code, Codex 5-hour rate-limit windows back-to-back
+- 🧰 **[skills](https://github.com/wavever/skills)** - personal collection of reusable agent skills, including `ready-to-opensource-skills`
